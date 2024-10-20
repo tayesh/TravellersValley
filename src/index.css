@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    background-color: #ffe3c2;
+}
+.t{
+    color:#e0933b56;
+}
+.pon {
+    font-family: "Poetsen One", sans-serif;
+  }
+.bhand{
+    font-family: "Briem Hand", cursive;
+}
+  

@@ -1,0 +1,117 @@
+[
+    {
+        "RoomDescription": "Standard Room",
+        "Description": "A cozy standard room suitable for solo travelers or couples. Equipped with essential amenities for a comfortable stay.",
+        "PricePerNight": 50,
+        "RoomSize": "15 sqm",
+        "BookedDates": [],
+        "Availability":true,
+        "RoomImages": [
+            "https://i.ibb.co/vmzTZxh/07e5326986bae53056c880587591ee76ce0308f4793cca020e685fe41094.jpg",
+            "https://i.ibb.co/XySXfs6/37bf196b6804faae8b0b2727cd1920d57dd28a83ca85a5cb27ff1e9adb68.jpg",
+            "https://i.ibb.co/9YT4HFt/d8cf1af12e2b1fa7664091955a80b0d488750be77f14c8416fc04e0dd25c.jpg"
+        ],
+        "SpecialOffers": [],
+        "Rating": 4.2
+    },
+    {
+        "RoomDescription": "Deluxe Double Room",
+        "Description": "A spacious and luxurious double room featuring modern amenities and elegant decor. Perfect for a luxurious getaway.",
+        "PricePerNight": 100,
+        "RoomSize": "25 sqm",
+        "BookedDates": [],
+        "Availability": false,
+        "RoomImages": [
+            "https://i.ibb.co/S0Nzvy4/42b3778cd710fddf2c644ac6b15327af17f6a54bfbd001535f27a264c60e.jpg",
+            "https://i.ibb.co/9tmvgFt/f91461db67f49a8d7b3c9012c50e0dc6ab3505f4ffa69b7f1560beb497ef.jpg",
+            "https://i.ibb.co/pfs0kVJ/1e003482d7f25e8174bd00fc0118c84198cdd83c4f9e5872b2506581cca1.jpg"
+        ],
+        "SpecialOffers": [
+            "Complimentary breakfast"
+        ],
+        "Rating": 4.5
+    },
+    {
+        "RoomDescription": "Suite with Sea View",
+        "Description": "Indulge in luxury with a spacious suite offering breathtaking sea views. Enjoy premium amenities and a relaxing ambiance.",
+        "PricePerNight": 200,
+        "RoomSize": "40 sqm",
+        "BookedDates": [],
+        "Availability": true,
+        "RoomImages": [
+            "https://i.ibb.co/Q6zmmq2/17686fc453d43bdf20b0a06371afe80e15f49d86312de6d5cf618dafe1a9.jpg",
+            "https://i.ibb.co/X4jtj6v/021054236a42e340c056e06ea3e8e128fd6d0dcb32c64e8a3ff0e7ce724a.jpg",
+            "https://i.ibb.co/sVjKm9z/b93d5b4c4b2b9d4b28845cca3648145697c449d229fe968b0013f121b3cf.jpg"
+        ],
+        "SpecialOffers": [
+            "Free spa session"
+        ],
+        "Rating": 4.8
+    },
+    {
+        "RoomDescription": "Family Room",
+        "Description": "Spacious and comfortable family room with enough space for the whole family. Ideal for a family vacation.",
+        "PricePerNight": 150,
+        "RoomSize": "30 sqm",
+        "BookedDates": [],
+        "Availability": true,
+        "RoomImages": [
+            "https://i.ibb.co/wLshSkR/a4c64d76a112d078daea196ab7a3d728fa297f4c10dc92585af6b41bfb51.jpg",
+            "https://i.ibb.co/sbKNZwL/754e336e98ce75b948908a4b5642cbc7cd49af207698f744da9f09f30c01.jpg",
+            "https://i.ibb.co/N1BXF4b/c3e5e635bd57af468d3158bda0819460e9a390f19df89a813066b6afd5a7.jpg"
+        ],
+        "SpecialOffers": [
+            "Kids stay free"
+        ],
+        "Rating": 4.3
+    },
+    {
+        "RoomDescription": "Executive Suite",
+        "Description": "Experience luxury at its finest in our executive suite. Spacious and elegantly designed, perfect for business or leisure travelers.",
+        "PricePerNight": 250,
+        "RoomSize": "50 sqm",
+        "BookedDates": [],
+        "Availability": true,
+        "RoomImages": [
+            "https://i.ibb.co/svhq9cD/e12c5ce42ed2240d3db9274d7cefb4a6f0ce8175c7fd9532456635cedaed.webp",
+            "https://i.ibb.co/sPJjXq7/642b640617739dbee1e446d48e845c7af3113206d4ee6c1f3367db55372f.jpg",
+            "https://i.ibb.co/SfYKp08/2bf63fc49430e992acd9021b5400739742d63b2cacb3fafc99ec469a022b.jpg"
+        ],
+        "SpecialOffers": [],
+        "Rating": 4.7
+    },
+    {
+        "RoomDescription": "Penthouse",
+        "Description": "Live in the lap of luxury with our stunning penthouse suite. Spacious, elegant, and offering unparalleled views, it's an experience you won't forget.",
+        "PricePerNight": 500,
+        "RoomSize": "100 sqm",
+        "BookedDates": [],
+        "Availability": true,
+        "RoomImages": [
+            "https://i.ibb.co/hRDsfYt/d26dbf9e911eee2130c525774265e9c68a3150f66d3b38490db1e92dd0ef.jpg",
+            "https://i.ibb.co/JdWSvXy/5666f2831380ffd0ef8bc096b565c73e981fea41fac91479cb8956d8cd05.jpg",
+            "https://i.ibb.co/dQ44nCc/751e74d782bcc7c1a1a1f84195bddf9bc2159862a2c89356afff9c30d2d9.jpg"
+        ],
+        "SpecialOffers": [
+            "Complimentary champagne"
+        ],
+        "Rating": 4.9
+    },
+    {
+        "RoomDescription": "Standard Double Room",
+        "Description": "A comfortable and spacious double room with modern amenities. Perfect for couples or solo travelers looking for a relaxing stay.",
+        "PricePerNight": 80,
+        "RoomSize": "20 sqm",
+        "BookedDates": [],
+        "Availability": true,
+        "RoomImages": [
+            "https://i.ibb.co/4pNWCvs/7f9f4d58cb3e54f059fd19a72d8df46836602a2f115ff7174573ec3e1f03.jpg",
+            "https://i.ibb.co/jDGxvwx/bb98a52f438556b1dc2333a6232e9164223b1b2debddce55b525fe11a548.jpg",
+            "https://i.ibb.co/JjC6Dzs/2b6f960c386255be1aa2bdca4459dd356bf7128683d3d3586bff36e30d97.jpg"
+        ],
+        "SpecialOffers": [
+            "Late checkout"
+        ],
+        "Rating": 4.4
+    }
+]
